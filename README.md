@@ -12,3 +12,6 @@ Provide social media handles
 Switch between light and dark modes
 
 Page is responsive - using media queries
+
+
+Live link :- https://dev-detective-project-theta.vercel.app/
